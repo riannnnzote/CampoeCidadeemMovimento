@@ -6,13 +6,13 @@ box-sizing: border-box;
 
 body {
 font-family: 'Verdana', sans-serif;
-background-color: #f5fff5;
+background-color: #f0feff;
 color: #333;
 }
 
 header {
-background-color: #4caf50;
-color: white;
+background-color: #72bb74;
+color: rgb(255, 254, 254);
 text-align: center;
 padding: 30px 20px;
 }
@@ -33,7 +33,7 @@ margin: 0 15px;
 }
 
 nav ul li a {
-color: white;
+color: rgb(0, 0, 0);
 text-decoration: none;
 font-weight: bold;
 }
@@ -49,7 +49,7 @@ margin-bottom: 50px;
 }
 
 .secao h2 {
-color: #357a38;
+color: #1687bb;
 
 margin-bottom: 20px;
 }
@@ -61,7 +61,7 @@ gap: 20px;
 }
 
 .card {
-background-color: #fff;
+background-color: #ffffff;
 padding: 15px;
 border-left: 5px solid #4caf50;
 box-shadow: 0 2px 10px rgba(0,0,0,0.08);
